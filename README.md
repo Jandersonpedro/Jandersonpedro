@@ -1,7 +1,8 @@
 ### Hi there! I'm Janderson Pedro! 👋
 
 - 🔭 I’m currently working on Data Science.
-- 🌱 I’m currently learning Python, R and SQL.
+- 💻 I'm currently enhancing my skills in MLOps and NLP.
+- 🌱 I’m currently learning Docker, Flask and Jenkins.
 - 😄 Pronouns: He/Him
 
 <div align="center">
@@ -24,5 +25,5 @@
   
 <div> 
 
-  <a href = "mailto:jandersonpedro1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jandersonpedrods@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jandersonpedrods/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
